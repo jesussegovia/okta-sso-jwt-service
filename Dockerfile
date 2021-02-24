@@ -16,4 +16,4 @@ ADD ${JAR_LIB_FILE} classes/
 # java -jar /usr/local/runme/app.jar
 ENTRYPOINT ["java","-jar","app.jar"]
 
-EXPOSE 9090/tcp
+EXPOSE 9090:29090

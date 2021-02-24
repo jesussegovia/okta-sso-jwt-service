@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.cognizant.okta.demo.DemoApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.941 s - in com.cognizant.okta.demo.DemoApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.664 s - in com.cognizant.okta.demo.DemoApplicationTests
