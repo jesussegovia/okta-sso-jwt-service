@@ -1,2 +1,2 @@
-# okta-sso-jwt-service
-okta-sso-jwt-service
+# trial-sso-service
+trial-sso-service

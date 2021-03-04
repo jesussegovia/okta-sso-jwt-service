@@ -47,7 +47,6 @@ public class DemoApplication {
 	    public FilterRegistrationBean<CorsFilter> simpleCorsFilter() {
 	
 
-			System.out.println("urlClient "+urlClient);
 	        UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
 	        CorsConfiguration config = new CorsConfiguration();
 	        config.setAllowCredentials(true);
