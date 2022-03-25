@@ -13,7 +13,6 @@ import org.springframework.data.jpa.repository.JpaRepository;
 @CrossOrigin(origins = "http://localhost:4200")
 public interface CarRepository extends JpaRepository<Car, Long> {
 	
-
 }
 
 	
